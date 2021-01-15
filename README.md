@@ -1,4 +1,4 @@
-# Slobodan Sipcic's Academic References
+# Slobodan Sipcic's Academic Publications
 
 ## Table of Contents
 
