@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-[<b>1 References</b>](#1-references)
+[<b>1 Publications</b>](#1-publications)
 
 &nbsp;&nbsp;&nbsp;[1.1 Journal Publications](#11-journal-publications)
 
@@ -15,7 +15,7 @@
 
 
 
-## 1 References
+## 1 Publications
 
 ### 1.1 Journal Publications
 
